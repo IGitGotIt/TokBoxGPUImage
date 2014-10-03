@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ADA8520A-20B9-452B-9E6B-9D4C87E0D389</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E609DD15689CC93D8F4D219EB393F30F9F726178</key>
+		<string>github.com:BradLarson/GPUImage.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E609DD15689CC93D8F4D219EB393F30F9F726178</key>
+		<string>GPUImage</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:BradLarson/GPUImage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E609DD15689CC93D8F4D219EB393F30F9F726178</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E609DD15689CC93D8F4D219EB393F30F9F726178</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GPUImage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
